@@ -3,9 +3,9 @@
 
 | Họ và Tên          | MSSV       | Vai trò                         |
 |--------------------|------------|----------------------------------|
-| Nguyễn Hoàng Minh Trí | 2280603364 | Backend & Frontend | 40%
-| Trần Hoài Nam | 2280602037 | Frontend | 40%
-| Nguyễn Thành Đô | 2280606483 | Report | 20%
+| Nguyễn Hoàng Minh Trí | 2280603364 | Backend & Frontend(40%) | 
+| Trần Hoài Nam | 2280602037 | Frontend(40%) | 
+| Nguyễn Thành Đô | 2280606483 | Report(20%) | 
 
 ## 🏗️ Công nghệ sử dụng
 
